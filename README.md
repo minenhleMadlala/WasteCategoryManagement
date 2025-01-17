@@ -94,3 +94,6 @@ Password: password
 
 Test the Endpoints:
 Using Postman or any other API client to interact with the API
+
+The project has been pushed to GitHub and can be accessed at:
+https://github.com/minenhleMadlala/WasteCategoryManagement

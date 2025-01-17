@@ -93,3 +93,4 @@ Username: sa
 Password: password
 
 Test the Endpoints:
+Using Postman or any other API client to interact with the API
